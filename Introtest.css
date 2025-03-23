@@ -1,0 +1,19 @@
+#topic{
+    text-align: center;
+    font-size: 50px;
+}
+#grid{
+    border: 5px solid cadetblue;
+}
+.name{
+    font-size: medium;
+    font-weight: bold;
+    color: blueviolet;
+    text-align: center;
+    cursor: pointer;
+   
+}
+.images{
+    height: 200px;
+    width: 350px;
+}
